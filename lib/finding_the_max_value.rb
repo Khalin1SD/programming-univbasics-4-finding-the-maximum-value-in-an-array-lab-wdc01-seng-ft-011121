@@ -1,3 +1,4 @@
 def find_max_value(array)
-  # Add your solution here
+  array.max
 end
+find_max_value([12, 17, 200, 5, 2, 56])
